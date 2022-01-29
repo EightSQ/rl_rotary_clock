@@ -1,0 +1,4 @@
+*.dSYM
+.ccls-cache
+.cache
+rotary_clock
